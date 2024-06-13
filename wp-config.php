@@ -26,7 +26,7 @@ define( 'DB_NAME', 'bitnami_wordpress' );
 define( 'DB_USER', 'bn_wordpress' );
 
 /** Database password */
-define( 'DB_PASSWORD', '6f6f05d03573f38a35eca9299d6893508effd60a361b4034d1d3e21f560e0391' );
+define( 'DB_PASSWORD', '6f6f05d03573f38a35eca9299d6' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1:3306' );
